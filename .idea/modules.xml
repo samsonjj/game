@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/visual-novel.iml" filepath="$PROJECT_DIR$/.idea/modules/visual-novel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/visual-novel_main.iml" filepath="$PROJECT_DIR$/.idea/modules/visual-novel_main.iml" group="visual-novel" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/visual-novel_test.iml" filepath="$PROJECT_DIR$/.idea/modules/visual-novel_test.iml" group="visual-novel" />
+    </modules>
+  </component>
+</project>
